@@ -1,0 +1,209 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "experimentation.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "assurance.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1420,
+                "y": 1992
+            }
+        },
+        "assurance.tmx#walls": {
+            "scaleInDock": 1
+        },
+        "background.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bell.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "both_sides.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "branch.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "comp_background.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "company.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1021,
+                "y": 766
+            }
+        },
+        "company.tmx#walls": {
+            "scaleInDock": 1
+        },
+        "door_controls_buttons.tsx": {
+            "scaleInEditor": 1
+        },
+        "entrance_walls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "experimentation.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 540,
+                "y": 3184
+            }
+        },
+        "experimentation.tmx#walls": {
+            "scaleInDock": 1
+        },
+        "grey_background.tsx": {
+            "scaleInDock": 1
+        },
+        "large dark grey.tsx": {
+            "scaleInDock": 1
+        },
+        "lever.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "main_entrance_sprite.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "more_outdoor_features.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "noside.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "post.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sell_area.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ship.tmx": {
+            "scale": 2,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 30.25,
+                "y": 124.5
+            }
+        },
+        "sideb.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sidec.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sider.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "small_gray_wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "stiars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "terminal.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "titan.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 132,
+                "y": 3184
+            }
+        },
+        "titan.tmx#grey_background": {
+            "scaleInDock": 1
+        },
+        "titan.tmx#walls": {
+            "scaleInDock": 1
+        },
+        "titan_back.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "titan_background.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "walls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/skyle/PycharmProjects/cs3050-final-project/resources/tilemaps",
+    "last.imagePath": "C:/Users/skyle/PycharmProjects/cs3050-final-project/resources/tilemaps",
+    "map.height": 16,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 32,
+    "openFiles": [
+        "company.tmx",
+        "comp_background.tsx",
+        "sell_area.tsx",
+        "bell.tsx",
+        "titan.tmx",
+        "experimentation.tmx",
+        "titan_background.tsx",
+        "main_entrance_sprite.tsx",
+        "assurance.tmx",
+        "more_outdoor_features.tsx",
+        "both_sides.tsx"
+    ],
+    "project": "experimentation.tiled-project",
+    "recentFiles": [
+        "company.tmx",
+        "comp_background.tsx",
+        "sell_area.tsx",
+        "bell.tsx",
+        "titan.tmx",
+        "both_sides.tsx",
+        "more_outdoor_features.tsx",
+        "assurance.tmx",
+        "main_entrance_sprite.tsx",
+        "titan_background.tsx",
+        "experimentation.tmx",
+        "door_controls_buttons.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}

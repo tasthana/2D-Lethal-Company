@@ -1,0 +1,243 @@
+{
+    "rooms": {
+      "0000": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/0000.png"}
+        ],
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "1000": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/1000.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 96, "height": 96}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "0100": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/0100.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "0010": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/0010.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "0001": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/0001.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "1100": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/1100.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "0110": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/0110.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "0011": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/0011.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "1001": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/1001.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "1010": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/1010.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "0101": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/0101.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "1110": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/1110.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "1101": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/1101.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "1011": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/1011.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "0111": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/0111.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      },
+      "1111": {
+        "walls": [
+          {"center_x": 0, "center_y": 0, "texture": "resources/wall_sprites/1111.png"}
+        ],
+        "background": "resources/wall_sprites/interior_floor.png",
+        "item_spawn_areas": [
+          {"center_x": 0, "center_y": 0, "width": 128, "height": 128}
+        ],
+        "spawner_locations": [
+          {"x": 0, "y": 0}
+        ],
+        "hazard_spawn_locations": [
+          {"x":  0, "y": 0, "width": 96, "height":  96}
+        ]
+      }
+    }
+  }

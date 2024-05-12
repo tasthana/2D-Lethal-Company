@@ -1,0 +1,147 @@
+{
+  "one_handed": {
+    "0": [
+      {
+        "weight": 5,
+        "sprite_filename": "resources/item_sprites/flashbang-1.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [10, 30]
+      },
+      {
+        "weight": 19,
+        "sprite_filename": "resources/item_sprites/bolt-1.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [10, 30]
+      },
+      {
+        "weight": 11,
+        "sprite_filename": "resources/item_sprites/candy-1.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [10, 30]
+      },
+      {
+        "weight": 11,
+        "sprite_filename": "resources/item_sprites/eggbeater-1.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [60, 100]
+      }
+    ],
+    "1": [
+      {
+        "weight": 0,
+        "sprite_filename": "resources/item_sprites/clownhorn-1.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [45, 65]
+      },
+      {
+        "weight": 0,
+        "sprite_filename": "resources/item_sprites/airhorn-1.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [45, 65]
+      },
+      {
+        "weight": 5,
+        "sprite_filename": "resources/item_sprites/mug-1.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [30, 70]
+      }
+    ],
+    "2": [
+      {
+        "weight": 24,
+        "sprite_filename": "resources/item_sprites/brassbell-1.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [70, 95]
+      },
+      {
+        "weight": 16,
+        "sprite_filename": "resources/item_sprites/shotgun-1.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [60, 100]
+      }
+    ]
+  },
+
+  "two_handed": {
+    "0": [
+      {
+        "weight": 16,
+        "sprite_filename": "resources/item_sprites/large-axel-2.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [60, 100]
+      },
+      {
+        "weight": 32,
+        "sprite_filename": "resources/item_sprites/chem-jug-2.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [30, 60]
+      },
+      {
+        "weight": 19,
+        "sprite_filename": "resources/item_sprites/bottles-2.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [10, 30]
+      }
+    ],
+
+    "1": [
+      {
+        "weight": 32,
+        "sprite_filename": "resources/item_sprites/painting-2.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [60, 100]
+      },
+      {
+        "weight": 0,
+        "sprite_filename": "resources/item_sprites/beehive-2.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [10, 30]
+      },
+      {
+        "weight": 21,
+        "sprite_filename": "resources/item_sprites/fancylamp-2.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [30, 60]
+      }
+    ],
+
+    "2": [
+      {
+        "weight": 84,
+        "sprite_filename": "resources/item_sprites/cash-2.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [30, 60]
+      },
+      {
+        "weight": 11,
+        "sprite_filename": "resources/item_sprites/player-body-2.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [60, 100]
+      },
+      {
+        "weight": 32,
+        "sprite_filename": "resources/item_sprites/apparatus-2.png",
+        "sprite_inventory_filename": "resources/item_sprites/inventory_loot_item.png",
+        "value_range": [80, 81]
+      }
+    ]
+  },
+  "tools": [
+    {
+      "terminal_phrase": "lan",
+      "terminal_print": "Lantern - 20",
+      "weight": 10,
+      "sprite_filename": "resources/tool_sprites/lantern.png",
+      "sprite_inventory_filename": "resources/tool_sprites/lantern.png",
+      "cost": 20
+    },
+    {
+      "terminal_phrase": "sho",
+      "terminal_print": "Shovel - 20",
+      "weight": 10,
+      "sprite_filename": "resources/tool_sprites/shovel_small.png",
+      "sprite_inventory_filename": "resources/tool_sprites/shovel_inventory.png",
+      "cost": 20
+    }
+  ]
+}

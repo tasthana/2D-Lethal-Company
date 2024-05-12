@@ -1,0 +1,17 @@
+{
+    "up": "W",
+    "down": "S",
+    "left": "A",
+    "right": "D",
+
+    "sprint": "SHIFT",
+    "slot_1": "1",
+    "slot_2": "2",
+    "slot_3": "3",
+    "slot_4": "4",
+
+    "pickup": "E",
+    "drop": "G",
+
+    "menu": "ESC"
+}

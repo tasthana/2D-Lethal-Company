@@ -1,0 +1,33 @@
+{
+    "indoors": {
+        "hygrodere": {
+            "power": 1,
+            "health": 10000000,
+            "sprite": "resources/enemy_sprites/hygrodere/hygrodere_1.png",
+            "texture_folder": "resources/enemy_sprites/hygrodere/",
+            "movement_speed": 0.2,
+            "damage": 25,
+            "damage_cooldown": 2
+        },
+        "thumper": {
+            "power": 2,
+            "health": 100,
+            "sprite": "resources/enemy_sprites/thumper/thumper_neutral.png",
+            "texture_folder": "resources/enemy_sprites/thumper/",
+            "movement_speed": 5,
+            "damage": 25,
+            "damage_cooldown": 10
+        }
+    },
+    "outdoors": {
+        "giant": {
+            "power": 3,
+            "health": 10000000,
+            "sprite": "resources/enemy_sprites/giant/giant_1.png",
+            "texture_folder": "resources/enemy_sprites/giant/",
+            "movement_speed": 1,
+            "damage": 100,
+            "damage_cooldown": 1
+        }
+    }
+}

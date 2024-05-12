@@ -1,0 +1,104 @@
+[
+    {
+        "id": "experimentation",
+        "terminal_phrase": "ex",
+        "moon_name": "40 - Experimentation",
+        "size": 1.0,
+        "difficulty": 1.0,
+        "loot-quantity": [10,15],
+        "loot-weight": {
+            "one_handed": [0.15,0.20,0.00],
+            "two_handed": [0.35,0.20,0.10]
+        },
+        "hazards": {
+            "mines": [2,8],
+            "turrets": [1,5]
+        },
+        
+        "outdoor_tilemap": "resources/tilemaps/experimentation.tmx",
+        "outdoor_starting_position": [1600, 3050],
+        "outdoor_leave_main_position": [1760, 4448],
+        
+        "indoor_power": 4,
+        "outdoor_power": 3,
+        "monster_weight": {
+            "hygrodere": 4,
+            "thumper": 2
+        },
+        "outdoor_weights": {
+            "giant": 1
+        },
+        "outdoor_spawners": 2,
+
+        "indoor_main_hit_box": {"center_x": -112, "center_y": 0, "texture": "resources/wall_sprites/main_hit_box.png"},
+        "indoor_main_image": {"center_x": -96, "center_y": 0, "texture": "resources/wall_sprites/main_entrance.png"}
+    },
+    {
+        "id": "assurance",
+        "terminal_phrase": "as",
+        "moon_name": "220 - Assurance",
+        "size": 1.15,
+        "difficulty": 1.0,
+        "loot-quantity": [13,18],
+        "loot-weight": {
+            "one_handed": [0.1,0.25,0.05],
+            "two_handed": [0.20,0.25,0.15]
+        },
+        "hazards": {
+            "mines": [3,11],
+            "turrets": [1,7]
+        },
+
+        "outdoor_tilemap": "resources/tilemaps/assurance.tmx",
+        "outdoor_starting_position": [1344, 1760],
+        "outdoor_leave_main_position": [864, 5088],
+
+        "indoor_power": 6,
+        "outdoor_power": 6,
+        "monster_weight": {
+            "hygrodere": 2,
+            "thumper": 4
+        },
+        "outdoor_weights": {
+            "giant": 1
+        },
+        "outdoor_spawners": 2,
+
+        "indoor_main_hit_box": {"center_x": -112, "center_y": 0, "texture": "resources/wall_sprites/main_hit_box.png"},
+        "indoor_main_image": {"center_x": -96, "center_y": 0, "texture": "resources/wall_sprites/main_entrance.png"}
+    },
+    {
+        "id": "titan",
+        "terminal_phrase": "ti",
+        "moon_name": "8 - Titan",
+        "size": 2.5,
+        "difficulty": 2.5,
+        "loot-quantity": [16,21],
+        "loot-weight": {
+            "one_handed": [0.05,0.35,0.30],
+            "two_handed": [0.15,0.05,0.10]
+        },
+        "hazards": {
+            "mines": [20,48],
+            "turrets": [20,35]
+        },
+        "outdoor_tilemap": "resources/tilemaps/titan.tmx",
+        "outdoor_starting_position": [1600, 3750],
+        "outdoor_leave_main_position": [1760, 4448],
+
+        "indoor_power": 0,
+        "outdoor_power": 3,
+        "monster_weight": {
+            "hygrodere": 1,
+            "thumper": 2
+        },
+        "outdoor_weights": {
+            "giant": 1
+        },
+        "outdoor_spawners": 3,
+
+        "indoor_main_hit_box": {"center_x": -96, "center_y": 0, "texture": "resources/wall_sprites/main_hit_box.png"},
+        "indoor_main_image": {"center_x": -96, "center_y": 0, "texture": "resources/wall_sprites/main_entrance.png"}
+    }
+]
+    
